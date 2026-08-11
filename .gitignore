@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+.venv/
+vendor/
+node_modules/
+
+uploads/
+*.log
+*.tmp
+
+tmp_*.php
+
+*.sql.gz
+*.sql.zip
+*.bak

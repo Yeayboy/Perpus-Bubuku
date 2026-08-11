@@ -1,0 +1,3 @@
+id_anggota,nim,nama,email,status,no_telepon
+A006,17231175,Rooney,rooney@gmail.com,aktif,081234567890
+'A007','17231176','Ibrahimovic','ibrahimovic@gmail.com','aktif','081234567891'
